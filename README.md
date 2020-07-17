@@ -1,5 +1,7 @@
 ### 👊
 
+<img src="https://img.shields.io/badge/open%20issues-2147483647-green"/>
+
 <!--
 **szk18/szk18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
