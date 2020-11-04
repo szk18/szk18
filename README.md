@@ -1,6 +1,12 @@
-### 👊
+## Suzuki Kensuke
 
 <img src="https://img.shields.io/badge/open%20issues-2147483647-green"/>
+
+Hi there 👋
+
+### 📫 アカウント:
+- Twitter: [@suzukidayoon](https://twitter.com/suzukidayoon)
+- はてなブログ: [慎ましく生きます](https://szk18.hatenadiary.jp/)
 
 <!--
 **szk18/szk18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
