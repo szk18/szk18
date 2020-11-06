@@ -7,7 +7,7 @@ Hi there 👋
 ### 📫 アカウント:
 - Twitter: [@suzukidayoon](https://twitter.com/suzukidayoon)
 - Atcoder: [szk18](https://atcoder.jp/users/szk18)
-- はてなブログ: [慎ましく生きます](https://szk18.hatenadiary.jp/)
+- はてなブログ: [慎ましく生きます](https://szk18.hatenadiary.jp/archive)
 
 <!--
 **szk18/szk18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
